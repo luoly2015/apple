@@ -1,4 +1,4 @@
-
+package com.atguigu.main;
 public class Huashan {
 
 	public void huashanjianfa() {
