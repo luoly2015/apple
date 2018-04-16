@@ -3,5 +3,6 @@ public class Hello {
 
         System.out.println("hello master");
         System.out.println("edit by linghc");
+        System.out.println("edit by ybuq");
     }
 }
